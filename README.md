@@ -16,10 +16,10 @@ This project is a takeout management system utilizing a front-end and back-end s
 - Junit
 
 ## Frontend Review
-<img src="images/frontend.jpg" alt="frontend.jpg" width="500"/>
+<img src="images/frontend.jpg" alt="frontend.jpg" width="400"/>
 
 ## Backend Review
-<img src="images/backend.jpg" alt="backend.jpg" style="zoom:70%;" />
+<img src="images/backend.jpg" alt="backend.jpg" width="400" />
 
 ## Setting Up Development Environment 
 1. Install Java JDK 17 and Configure Environment Variables.
